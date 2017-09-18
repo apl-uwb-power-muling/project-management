@@ -1,0 +1,294 @@
+<Temperature(temperature sensor): 28.68 deg C
+--->
+< Pressure: 1039.40 mbar>
+< Temperature(pressure sensor): 28.95 deg C>
+< Depth: 0.26 m>
+< Altitude: -215.35 m above mean sea level>
+< Time: 1.11 seconds (s) >
+<Temperature(temperature sensor): 28.67 deg C
+--->
+< Pressure: 1039.60 mbar>
+< Temperature(pressure sensor): 28.96 deg C>
+< Depth: 0.26 m>
+< Altitude: -216.98 m above mean sea level>
+< Time: 2.39 seconds (s) >
+<Temperature(temperature sensor): 28.67 deg C
+--->
+< Pressure: 1039.40 mbar>
+< Temperature(pressure sensor): 28.96 deg C>
+< Depth: 0.26 m>
+< Altitude: -215.35 m above mean sea level>
+< Time: 3.66 seconds (s) >
+<Temperature(temperature sensor): 28.68 deg C
+--->
+< Pressure: 1039.50 mbar>
+< Temperature(pressure sensor): 28.96 deg C>
+< Depth: 0.26 m>
+< Altitude: -216.17 m above mean sea level>
+< Time: 4.93 seconds (s) >
+<Temperature(temperature sensor): 28.68 deg C
+--->
+< Pressure: 1039.00 mbar>
+< Temperature(pressure sensor): 28.97 deg C>
+< Depth: 0.26 m>
+< Altitude: -212.09 m above mean sea level>
+< Time: 6.20 seconds (s) >
+<Temperature(temperature sensor): 28.67 deg C
+--->
+< Pressure: 1039.70 mbar>
+< Temperature(pressure sensor): 28.97 deg C>
+< Depth: 0.26 m>
+< Altitude: -217.79 m above mean sea level>
+< Time: 7.47 seconds (s) >
+<Temperature(temperature sensor): 28.68 deg C
+--->
+< Pressure: 1039.50 mbar>
+< Temperature(pressure sensor): 28.97 deg C>
+< Depth: 0.26 m>
+< Altitude: -216.17 m above mean sea level>
+< Time: 8.74 seconds (s) >
+<Temperature(temperature sensor): 28.68 deg C
+--->
+< Pressure: 1039.90 mbar>
+< Temperature(pressure sensor): 28.98 deg C>
+< Depth: 0.27 m>
+< Altitude: -219.42 m above mean sea level>
+< Time: 10.01 seconds (s) >
+<Temperature(temperature sensor): 28.68 deg C
+--->
+< Pressure: 1039.40 mbar>
+< Temperature(pressure sensor): 28.98 deg C>
+< Depth: 0.26 m>
+< Altitude: -215.35 m above mean sea level>
+< Time: 11.28 seconds (s) >
+<Temperature(temperature sensor): 28.68 deg C
+--->
+< Pressure: 1039.80 mbar>
+< Temperature(pressure sensor): 28.99 deg C>
+< Depth: 0.27 m>
+< Altitude: -218.61 m above mean sea level>
+< Time: 12.55 seconds (s) >
+<Temperature(temperature sensor): 28.68 deg C
+--->
+< Pressure: 1039.30 mbar>
+< Temperature(pressure sensor): 28.99 deg C>
+< Depth: 0.26 m>
+< Altitude: -214.54 m above mean sea level>
+< Time: 13.82 seconds (s) >
+<Temperature(temperature sensor): 28.68 deg C
+--->
+< Pressure: 1039.70 mbar>
+< Temperature(pressure sensor): 28.99 deg C>
+< Depth: 0.26 m>
+< Altitude: -217.79 m above mean sea level>
+< Time: 15.09 seconds (s) >
+<Temperature(temperature sensor): 28.68 deg C
+--->
+< Pressure: 1039.50 mbar>
+< Temperature(pressure sensor): 29.00 deg C>
+< Depth: 0.26 m>
+< Altitude: -216.17 m above mean sea level>
+< Time: 16.36 seconds (s) >
+<Temperature(temperature sensor): 28.68 deg C
+--->
+< Pressure: 1039.50 mbar>
+< Temperature(pressure sensor): 29.00 deg C>
+< Depth: 0.26 m>
+< Altitude: -216.17 m above mean sea level>
+< Time: 17.63 seconds (s) >
+<Temperature(temperature sensor): 28.69 deg C
+--->
+< Pressure: 1039.60 mbar>
+< Temperature(pressure sensor): 29.00 deg C>
+< Depth: 0.26 m>
+< Altitude: -216.98 m above mean sea level>
+< Time: 18.89 seconds (s) >
+<Temperature(temperature sensor): 28.69 deg C
+--->
+< Pressure: 1039.60 mbar>
+< Temperature(pressure sensor): 29.01 deg C>
+< Depth: 0.26 m>
+< Altitude: -216.98 m above mean sea level>
+< Time: 20.58 seconds (s) >
+<Temperature(temperature sensor): 28.69 deg C
+--->
+< Pressure: 1039.40 mbar>
+< Temperature(pressure sensor): 29.01 deg C>
+< Depth: 0.26 m>
+< Altitude: -215.35 m above mean sea level>
+< Time: 22.19 seconds (s) >
+<Temperature(temperature sensor): 28.69 deg C
+--->
+< Pressure: 1039.60 mbar>
+< Temperature(pressure sensor): 29.01 deg C>
+< Depth: 0.26 m>
+< Altitude: -216.98 m above mean sea level>
+< Time: 23.80 seconds (s) >
+<Temperature(temperature sensor): 28.69 deg C
+--->
+< Pressure: 1039.40 mbar>
+< Temperature(pressure sensor): 29.02 deg C>
+< Depth: 0.26 m>
+< Altitude: -215.35 m above mean sea level>
+< Time: 25.42 seconds (s) >
+<Temperature(temperature sensor): 28.69 deg C
+--->
+< Pressure: 1039.60 mbar>
+< Temperature(pressure sensor): 29.02 deg C>
+< Depth: 0.26 m>
+< Altitude: -216.98 m above mean sea level>
+< Time: 27.10 seconds (s) >
+<Temperature(temperature sensor): 28.69 deg C
+--->
+< Pressure: 1039.40 mbar>
+< Temperature(pressure sensor): 29.03 deg C>
+< Depth: 0.26 m>
+< Altitude: -215.35 m above mean sea level>
+< Time: 28.37 seconds (s) >
+<Temperature(temperature sensor): 28.69 deg C
+--->
+< Pressure: 1040.20 mbar>
+< Temperature(pressure sensor): 29.03 deg C>
+< Depth: 0.27 m>
+< Altitude: -221.87 m above mean sea level>
+< Time: 29.64 seconds (s) >
+<Temperature(temperature sensor): 28.69 deg C
+--->
+< Pressure: 1039.70 mbar>
+< Temperature(pressure sensor): 29.03 deg C>
+< Depth: 0.26 m>
+< Altitude: -217.79 m above mean sea level>
+< Time: 31.31 seconds (s) >
+<Temperature(temperature sensor): 28.69 deg C
+--->
+< Pressure: 1039.60 mbar>
+< Temperature(pressure sensor): 29.04 deg C>
+< Depth: 0.26 m>
+< Altitude: -216.98 m above mean sea level>
+< Time: 32.58 seconds (s) >
+<Temperature(temperature sensor): 28.69 deg C
+--->
+< Pressure: 1039.50 mbar>
+< Temperature(pressure sensor): 29.04 deg C>
+< Depth: 0.26 m>
+< Altitude: -216.17 m above mean sea level>
+< Time: 33.86 seconds (s) >
+<Temperature(temperature sensor): 28.70 deg C
+--->
+< Pressure: 1039.40 mbar>
+< Temperature(pressure sensor): 29.04 deg C>
+< Depth: 0.26 m>
+< Altitude: -215.35 m above mean sea level>
+< Time: 35.13 seconds (s) >
+<Temperature(temperature sensor): 28.70 deg C
+--->
+< Pressure: 1039.50 mbar>
+< Temperature(pressure sensor): 29.05 deg C>
+< Depth: 0.26 m>
+< Altitude: -216.17 m above mean sea level>
+< Time: 36.40 seconds (s) >
+<Temperature(temperature sensor): 28.70 deg C
+--->
+< Pressure: 1039.40 mbar>
+< Temperature(pressure sensor): 29.05 deg C>
+< Depth: 0.26 m>
+< Altitude: -215.35 m above mean sea level>
+< Time: 37.67 seconds (s) >
+<Temperature(temperature sensor): 28.70 deg C
+--->
+< Pressure: 1039.50 mbar>
+< Temperature(pressure sensor): 29.06 deg C>
+< Depth: 0.26 m>
+< Altitude: -216.17 m above mean sea level>
+< Time: 38.94 seconds (s) >
+<Temperature(temperature sensor): 28.70 deg C
+--->
+< Pressure: 1040.00 mbar>
+< Temperature(pressure sensor): 29.06 deg C>
+< Depth: 0.27 m>
+< Altitude: -220.24 m above mean sea level>
+< Time: 40.21 seconds (s) >
+<Temperature(temperature sensor): 28.70 deg C
+--->
+< Pressure: 1038.70 mbar>
+< Temperature(pressure sensor): 29.06 deg C>
+< Depth: 0.25 m>
+< Altitude: -209.64 m above mean sea level>
+< Time: 41.48 seconds (s) >
+<Temperature(temperature sensor): 28.71 deg C
+--->
+< Pressure: 1039.80 mbar>
+< Temperature(pressure sensor): 29.06 deg C>
+< Depth: 0.27 m>
+< Altitude: -218.61 m above mean sea level>
+< Time: 42.75 seconds (s) >
+<Temperature(temperature sensor): 28.70 deg C
+--->
+< Pressure: 1039.80 mbar>
+< Temperature(pressure sensor): 29.07 deg C>
+< Depth: 0.27 m>
+< Altitude: -218.61 m above mean sea level>
+< Time: 44.02 seconds (s) >
+<Temperature(temperature sensor): 28.70 deg C
+--->
+< Pressure: 1039.40 mbar>
+< Temperature(pressure sensor): 29.07 deg C>
+< Depth: 0.26 m>
+< Altitude: -215.35 m above mean sea level>
+< Time: 45.29 seconds (s) >
+<Temperature(temperature sensor): 28.71 deg C
+--->
+< Pressure: 1039.10 mbar>
+< Temperature(pressure sensor): 29.08 deg C>
+< Depth: 0.26 m>
+< Altitude: -212.90 m above mean sea level>
+< Time: 46.56 seconds (s) >
+<Temperature(temperature sensor): 28.71 deg C
+--->
+< Pressure: 1039.70 mbar>
+< Temperature(pressure sensor): 29.08 deg C>
+< Depth: 0.26 m>
+< Altitude: -217.79 m above mean sea level>
+< Time: 47.83 seconds (s) >
+<Temperature(temperature sensor): 28.71 deg C
+--->
+< Pressure: 1039.40 mbar>
+< Temperature(pressure sensor): 29.08 deg C>
+< Depth: 0.26 m>
+< Altitude: -215.35 m above mean sea level>
+< Time: 49.10 seconds (s) >
+<Temperature(temperature sensor): 28.71 deg C
+--->
+< Pressure: 1039.90 mbar>
+< Temperature(pressure sensor): 29.08 deg C>
+< Depth: 0.27 m>
+< Altitude: -219.42 m above mean sea level>
+< Time: 50.37 seconds (s) >
+<Temperature(temperature sensor): 28.71 deg C
+--->
+< Pressure: 1039.70 mbar>
+< Temperature(pressure sensor): 29.08 deg C>
+< Depth: 0.26 m>
+< Altitude: -217.79 m above mean sea level>
+< Time: 51.64 seconds (s) >
+<Temperature(temperature sensor): 28.71 deg C
+--->
+< Pressure: 1039.70 mbar>
+< Temperature(pressure sensor): 29.09 deg C>
+< Depth: 0.26 m>
+< Altitude: -217.79 m above mean sea level>
+< Time: 52.91 seconds (s) >
+<Temperature(temperature sensor): 28.71 deg C
+--->
+< Pressure: 1039.70 mbar>
+< Temperature(pressure sensor): 29.09 deg C>
+< Depth: 0.26 m>
+< Altitude: -217.79 m above mean sea level>
+< Time: 54.26 seconds (s) >
+<Temperature(temperature sensor): 28.71 deg C
+--->
+< Pressure: 1039.90 mbar>
+< Temperature(pressure sensor): 29.09 deg C>
+< Depth: 0.27 m>
+< Altitude: -219.42 m above mean sea level>
+< Time: 55.53 seconds (s) >

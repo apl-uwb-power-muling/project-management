@@ -1,0 +1,2 @@
+# elapsed_milliseconds,temp_c,pressure_mbar,temp_from_pressure_c,depth_m,altitude_m
+1282,26.65,1039.30,28.96,0.26,-214.54
